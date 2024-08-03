@@ -82,3 +82,6 @@ This project involves analyzing ecommerce web analytics data to optimize marketi
 ---
 
 This project involves extensive analysis of ecommerce data to refine marketing strategies, optimize bids, and ultimately drive business growth. By leveraging data insights, the company can make informed decisions to improve performance and increase revenue.
+
+[Ecommerce Web Analytics  for linkedin post.pdf](https://github.com/user-attachments/files/16478368/Ecommerce.Web.Analytics.for.linkedin.post.pdf)
+
